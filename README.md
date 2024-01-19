@@ -1,12 +1,12 @@
 # Apple-landing-page
- test repository
+ Test repository
 # My First Web Development Project
 
-Welcome to my first web development project! As a newcomer to the world of web development, I've spent the past 5 days diving into HTML and CSS. In this short span, I've managed to create a landing page inspired by Apple.com. While it's not yet responsive, it marks the beginning of my journey into the vast realm of web development.
+Welcome to my first web development project! As a newcomer to the world of web development, I've spent the past 5 days diving into HTML and CSS. In this short span, I've managed to create a clone landing page inspired by Apple.com. While it's not yet responsive and furnished, it marks the beginning of my journey into the vast realm of web development.
 
 ## Project Overview
 
-This project is a landing page inspired by the design of Apple's official website. It serves as a starting point for me to apply and practice the HTML and CSS concepts I've learned so far.
+This project is a clone page inspired by Apple's official website. It serves as a starting point for me to apply and practice the HTML and CSS concepts I've learned so far.
 
 ## Learning Journey
 
