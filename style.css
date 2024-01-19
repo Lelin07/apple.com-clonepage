@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Open+Sans:wght@300&family=Roboto&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+
+    width: 100vw;
+    height: 48px;
+    background-color: rgb(24, 24, 24);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.navbar ul {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+
+}
+
+.navbar svg {
+
+    height: 20px;
+    cursor: pointer;
+}
+
+.cartlogo {
+
+    cursor: pointer;
+}
+
+.navbar li {
+
+    font-family: 'Roboto', sans-serif;
+    font-size: smaller;
+    font-weight: 500;
+    color: rgb(168, 168, 168);
+    list-style: none;
+    cursor: pointer;
+}
+
+.ul {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.nav2 {
+    position: relative;
+    background-color: #252525;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav2 .text {
+    font-size: small;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.text2 {
+    cursor: pointer;
+    font-size: small;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 10px;
+    color: rgb(84, 144, 255);
+}
+
+
+/* box1 */
+.pro {
+    height: 600px;
+    width: 100;
+    background-image: url("https://www.apple.com/v/iphone-15-pro/c/images/meta/iphone-15-pro_overview__f8jz7aagka2q_og.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.container h1 {
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.container .titanium {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    ;
+    color: rgb(255, 255, 255);
+
+}
+
+.blue {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(62, 146, 255);
+    cursor: pointer;
+}
+
+
+
+
+.container {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    padding-bottom: 40px;
+    padding-top: 35px;
+
+}
+
+.container .lm {
+    display: flex;
+    gap: 30px;
+    font-size: 25px;
+}
+
+/* box2 */
+.pro2 {
+    height: 600px;
+    width: 100;
+    background-image: url("https://www.apple.com/v/iphone-15/c/images/meta/iphone-15_overview__gm0jynt55aai_og.png?202401142339");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin-top: 100px;
+}
+
+.container2 {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+    padding-bottom: 40px;
+
+}
+
+
+.container2 h1 {
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.container2 .titanium {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    ;
+    color: rgb(0, 0, 0);
+
+}
+
+.container2 .lm {
+    display: flex;
+    gap: 30px;
+    font-size: 25px;
+}
+
+.watchbg {
+    margin-top: 15px;
+    height: 1090px;
+    background-image: url("applewatch.jpg");
+
+}
+
+.watchcontainer {
+    padding-top: 60px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.watch1text {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.c {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.line1 {
+    padding-top: 5px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.line2 {
+    padding: 5px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(62, 146, 255);
+    font-size: 25px;
+    cursor: pointer;
+}
