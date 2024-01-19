@@ -25,8 +25,8 @@ If you're an experienced developer stumbling upon this project, feel free to pro
 To view the landing page, simply clone this repository and open the `index.html` file in your preferred web browser.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/Lelin07/apple.com-clonepage.git
+cd apple.com-clonepage
 ```
 
 Open `index.html` in your browser to see the landing page.
